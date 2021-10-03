@@ -1,0 +1,1 @@
+// JDsClipboardTester.h

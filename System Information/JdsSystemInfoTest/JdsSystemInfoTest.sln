@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JdsSystemInfoTest", "JdsSystemInfoTest.vcxproj", "{19223541-3555-4BD2-9F19-ED1AD3A6CCD6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JDsSystemInfo", "..\JDsSystemInfo\JDsSystemInfo.vcxproj", "{BA725BEF-84B2-4941-9D3A-7740BDCE96DE}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://jpteamserver01:8080/tfs/eliahu%20test
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = JdsSystemInfoTest.vcxproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\JDsSystemInfo\\JDsSystemInfo.vcxproj
+		SccProjectName2 = ../JDsSystemInfo
+		SccLocalPath2 = ..\\JDsSystemInfo
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19223541-3555-4BD2-9F19-ED1AD3A6CCD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{19223541-3555-4BD2-9F19-ED1AD3A6CCD6}.Debug|Win32.Build.0 = Debug|Win32
+		{19223541-3555-4BD2-9F19-ED1AD3A6CCD6}.Release|Win32.ActiveCfg = Release|Win32
+		{19223541-3555-4BD2-9F19-ED1AD3A6CCD6}.Release|Win32.Build.0 = Release|Win32
+		{BA725BEF-84B2-4941-9D3A-7740BDCE96DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BA725BEF-84B2-4941-9D3A-7740BDCE96DE}.Debug|Win32.Build.0 = Debug|Win32
+		{BA725BEF-84B2-4941-9D3A-7740BDCE96DE}.Release|Win32.ActiveCfg = Release|Win32
+		{BA725BEF-84B2-4941-9D3A-7740BDCE96DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

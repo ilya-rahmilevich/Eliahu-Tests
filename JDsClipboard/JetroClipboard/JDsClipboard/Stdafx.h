@@ -1,0 +1,26 @@
+// stdafx.h : include file for standard system include files,
+// or project specific include files that are used frequently,
+// but are changed infrequently
+
+#pragma once
+
+#define WIN32_LEAN_AND_MEAN     // Exclude rarely-used stuff from Windows headers
+#define STRICT
+
+//#define _WTL_USE_CSTRING
+//#define _ATL_CSTRING_EXPLICIT_CONSTRUCTORS
+
+#include /**/ <atlstr.h>
+
+#include <atlbase.h>
+#include <atlapp.h>
+#include <atlwin.h>
+#include <atlframe.h>
+#define _WTL_NO_CSTRING
+#include <atlmisc.h>
+#include <atlcrack.h>
+
+#include <iostream>
+#include <iomanip>
+#include <string>
+using namespace std;
